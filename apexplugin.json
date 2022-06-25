@@ -1,0 +1,36 @@
+{
+  "name" : "apex-browser-detect",
+  "version" : "1.0",
+  "description" : "It´s useful to guide your users through the application, or give your users a first run wizard to explain parts of your app.",
+  "keywords" : ["oracle", "dynamicaction", "tiabarca", "plugin"],
+  "homepage" : "https://github.com/tiabarca/apex-browser-detect",
+  "bugs" : {
+    "url" : "https://github.com/tiabarca/apex-browser-detect/issues",
+    "email" : "spujol@gmail.com"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "author" : {
+    "name" : "Sebastia Pujol",
+    "email" : "spujol@gmail.com",
+    "url" : "https://danielhochleitner.de/"
+    "twitter" : "tiabarca"
+    "donationUrl" : "https://www.paypal.me/SebastiaPujol"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/tiabarca/apex-browser-detect/"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["19.0.0","20.0.0"],
+      "plugin" : {
+        "internalName" : "TALAT.APEX.CLIENT.BROWSER",
+        "type" : "dynamic action",
+        "demo" : "https://apex.oracle.com/pls/apex/r/mygithub/github-tiabarca",
+        "previewImage" : "https://github.com/tiabarca/apex-browser-detect/master/preview.png"
+      }
+    }
+  }
+}
