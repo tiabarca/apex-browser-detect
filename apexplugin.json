@@ -1,7 +1,7 @@
 {
   "name" : "apex-browser-detect",
   "version" : "1.0",
-  "description" : "It´s useful to guide your users through the application, or give your users a first run wizard to explain parts of your app.",
+  "description" : "A plugin made to detect minimal browser requeriments for apex v20.x. We made this plugin to simplify the task for check browser requeriments. It´s useful to guide your users through the application, or give your users a first run wizard to explain parts of your app.",
   "keywords" : ["oracle", "dynamicaction", "tiabarca", "plugin"],
   "homepage" : "https://github.com/tiabarca/apex-browser-detect",
   "bugs" : {
